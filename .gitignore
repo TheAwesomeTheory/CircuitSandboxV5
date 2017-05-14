@@ -64,3 +64,6 @@ Intermediate/*
 DerivedDataCache/*
 *.log
 Saved/Logs/CircuitSandboxV5.log
+*.log
+*.log
+Saved/Logs/CircuitSandboxV5.log
